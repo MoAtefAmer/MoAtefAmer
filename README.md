@@ -9,7 +9,9 @@ Very interested in Blockchain and Web3 and learning new things each day 🌱
 📫 How to reach me:
 
 Check out my LinkedIn https://www.linkedin.com/in/mohamedatefamer/
-  
+
+
+Here are some practice projects I do in my spare time 👇, feel free to take a look!
 
 <!--
 **MoAtefAmer/MoAtefAmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
