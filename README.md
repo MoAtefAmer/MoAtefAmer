@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a Full-stack software engineer with 2+ year of experience.
+I'm a Full-stack software engineer graduated from the German University in Cairo with 2+ year of work experience  experience.
+
 Worked for small startups and mid-sized companies with small ,medium and large teams on muliple projects and had different active roles in all of them.
 
 🔭 Currently working at NuqtahNFT on this amazing product https://nuqtah.io/
