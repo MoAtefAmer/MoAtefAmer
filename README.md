@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Full-stack software engineer graduated from the German University in Cairo with 2+ year of work experience  experience.
+I'm a Full-stack software engineer graduated from the German University in Cairo with 2+ years of work experience  experience.
 
 Worked for small startups and mid-sized companies in small ,medium and large teams on muliple projects and had different active roles in all of them.
 
