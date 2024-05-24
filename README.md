@@ -3,14 +3,14 @@ I'm a Full-stack software engineer graduated from the German University in Cairo
 
 Worked for small startups and mid-sized companies in small ,medium and large teams on muliple projects and had different active roles in all of them.
 
-Very interested in Blockchain and Web3 and learning new things every day 🌱
+Very interested in Fullstack development and Web3 and learning new things every day 🌱
 
 📫 How to reach me:
 
 Check out my LinkedIn https://www.linkedin.com/in/mohamedatefamer/
 
 
-Here are some practice projects I do in my spare time 👇, feel free to take a look!
+Here are some practice projects I do in my spare time 👇
 
 <!--
 **MoAtefAmer/MoAtefAmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
